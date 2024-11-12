@@ -2,7 +2,7 @@
 
 A clone of the connect four game.
 
-[Play here](https://devswordfish.github.io/connect-four)
+[Play here](https://leandrotakara.github.io/connect-four)
 
 ---
 
